@@ -96,17 +96,24 @@ luis = {
 
 ## 🚀 Proyectos destacados
 
-### 📞 [Agente de Llamadas con IA — GPT-4o + Twilio](https://github.com/LuisCa-Cyber/Agente-de-llamadas-con-Twilio)
-> Agente conversacional que realiza y recibe llamadas telefónicas reales. Usa Twilio para la telefonía y STT, GPT-4o-mini para generar respuestas en lenguaje natural y OpenAI TTS para la voz. La respuesta se genera en hilo de fondo para no bloquear la llamada.
-
-`Python` `Flask` `Twilio` `OpenAI` `TTS` `STT` `ngrok`
-
----
-
 ### 🤖 [Garant-IA — Chatbot RAG para Normativa FNG](https://github.com/LuisCa-Cyber/Proyecto-Garant-IA)
 > Asistente conversacional que responde en lenguaje natural sobre las 32 Circulares Normativas Externas del FNG (2024), usando RAG + FAISS + GPT-4o-mini + Chain of Thought. Desarrollado y desplegado en producción para el área comercial del FNG.
 
 `Python` `FAISS` `OpenAI` `Streamlit` `RAG` `NLP` `Chain-of-Thought`
+
+---
+
+### 🎙️ [Clonador de Voz — XTTS-v2 + Streamlit](https://github.com/LuisCa-Cyber/clonador-voz)
+> App local de clonación de voz en español. Graba o sube un audio de referencia y genera cualquier texto con tu propia voz usando XTTS-v2 de Coqui TTS. Interfaz construida con Streamlit, corre 100% local sin enviar datos a servicios externos.
+
+`Python` `Streamlit` `XTTS-v2` `Coqui TTS` `Voice Cloning` `TTS`
+
+---
+
+### 📞 [Agente de Llamadas con IA — GPT-4o + Twilio](https://github.com/LuisCa-Cyber/Agente-de-llamadas-con-Twilio)
+> Agente conversacional que realiza y recibe llamadas telefónicas reales. Usa Twilio para la telefonía y STT, GPT-4o-mini para generar respuestas en lenguaje natural y OpenAI TTS para la voz. La respuesta se genera en hilo de fondo para no bloquear la llamada.
+
+`Python` `Flask` `Twilio` `OpenAI` `TTS` `STT` `ngrok`
 
 ---
 
