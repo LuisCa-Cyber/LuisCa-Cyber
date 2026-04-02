@@ -96,6 +96,13 @@ luis = {
 
 ## 🚀 Proyectos destacados
 
+### 📞 [Agente de Llamadas con IA — GPT-4o + Twilio](https://github.com/LuisCa-Cyber/Agente-de-llamadas-con-Twilio)
+> Agente conversacional que realiza y recibe llamadas telefónicas reales. Usa Twilio para la telefonía y STT, GPT-4o-mini para generar respuestas en lenguaje natural y OpenAI TTS para la voz. La respuesta se genera en hilo de fondo para no bloquear la llamada.
+
+`Python` `Flask` `Twilio` `OpenAI` `TTS` `STT` `ngrok`
+
+---
+
 ### 🤖 [Garant-IA — Chatbot RAG para Normativa FNG](https://github.com/LuisCa-Cyber/Proyecto-Garant-IA)
 > Asistente conversacional que responde en lenguaje natural sobre las 32 Circulares Normativas Externas del FNG (2024), usando RAG + FAISS + GPT-4o-mini + Chain of Thought. Desarrollado y desplegado en producción para el área comercial del FNG.
 
